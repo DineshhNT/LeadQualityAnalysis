@@ -1,8 +1,3 @@
------
-
-## `README.md` Content
-
-````markdown
 # Lead Quality Analysis Case Study
 
 This repository contains the Python analysis script and output visuals for the Lead Quality Analyst Case Study submitted by Dinesh N T.
